@@ -12,6 +12,7 @@ namespace Uygulama_1
 {
     public partial class Form1 : Form
     {
+	void test(){ return 0;}
         public Form1()
         {
             InitializeComponent();
